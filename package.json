@@ -1,0 +1,15 @@
+{
+  "name": "honda-veiculos-backend",
+  "version": "1.0.0",
+  "description": "CRUD API for Honda vehicles using Node.js and Sequelize (SQLite)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "sequelize": "^6.37.1",
+    "sqlite3": "^5.1.7"
+  }
+}
